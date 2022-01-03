@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/dataset.schema.json
+name: bikes.csv
+version: 1
+local_path: ch9/bikes.csv
